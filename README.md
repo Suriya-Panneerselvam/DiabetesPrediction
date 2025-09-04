@@ -1,3 +1,5 @@
+#DiabetesPredictionModel
+
 ⚕️ Diabetes Prediction Model
 
 This project features a machine learning model built with a Decision Tree Classifier to predict the likelihood of a person having diabetes. The model is trained on a comprehensive dataset of medical records, and the included Jupyter Notebook allows for both model training and live prediction based on user input.
